@@ -3,9 +3,16 @@ week02
  ls, ls -a, ls -l, ls -al
  pwd, cd .git, cd .., touch week01.txt
  vi week01.txt, vi week02.txt
+ echo "aaaa" >> README.md
+ cat README.me
 
 - git commands
   git init
   git status
   git add week01.txt
-
+  git config --global user.email "aaaa@example.com"
+  git config --global user.email "aaaa"
+  git commit -m "v0"
+  git log
+  git checkout hashcode
+  git checkout -
