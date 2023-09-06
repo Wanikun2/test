@@ -1,1 +1,3 @@
-wqeeqx
+week01
+- orientation
+- vcs, git, github, java
